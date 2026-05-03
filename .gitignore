@@ -8,6 +8,11 @@
 *.txt
 *.yaml
 
+# Training
+runs/
+*.cache
+*.pt
+
 #
 .DS_Store
 .venv
