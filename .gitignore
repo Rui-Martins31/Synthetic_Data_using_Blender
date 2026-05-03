@@ -1,2 +1,8 @@
 # Blender
 *.blend1
+
+# Images
+*.png
+
+#
+.DS_Store
