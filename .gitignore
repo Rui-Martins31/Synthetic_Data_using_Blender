@@ -4,5 +4,10 @@
 # Images
 *.png
 
+# Labels
+*.txt
+*.yaml
+
 #
 .DS_Store
+.venv
